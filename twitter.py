@@ -24,7 +24,7 @@ TWITTER_CONSUMER_KEY = getenv("TWITTER_CONSUMER_KEY")
 TWITTER_CONSUMER_SECRET = getenv("TWITTER_CONSUMER_SECRET")
 
 # The user ID of @realDonaldTrump.
-TRUMP_USER_ID = "25073877"
+TRUMP_USER_ID = "1112802541018992640"
 
 # The URL pattern for links to tweets.
 TWEET_URL = "https://twitter.com/%s/status/%s"

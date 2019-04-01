@@ -29,7 +29,7 @@ BACKOFF_RESET_S = 30 * 60
 MONITOR_HOST = "0.0.0.0"
 
 # The port for the monitor Web server.
-MONITOR_PORT = 1025
+MONITOR_PORT = 80
 
 # The message returned by the monitor Web server.
 MONITOR_MESSAGE = "OK"
